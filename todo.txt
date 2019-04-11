@@ -1,0 +1,11 @@
+~~ADD MORE SPACE COMMANDS~~
+ENDPOINTS:
+Retrieve a list of Asteroids based on their closest approach date to Earth. GET https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_DATE&api_key=API_KEY 
+
+Lookup a specific Asteroid based on its NASA JPL small body (SPK-ID) ID GET https://api.nasa.gov/neo/rest/v1/neo/ 
+
+Browse the overall Asteroid data-set GET https://api.nasa.gov/neo/rest/v1/neo/browse/ 
+
+no: asteroid DATA
+
+FINISH ;ATER
